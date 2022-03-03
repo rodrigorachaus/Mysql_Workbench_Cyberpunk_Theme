@@ -10,3 +10,5 @@ Replace this original code_editor.xml locate in /usr/share/mysql-workbench/data 
 
 
 Very Important: Backup original code_editor.xml to prevent issues.
+
+![Result](https://user-images.githubusercontent.com/88359413/156479337-4a0991bc-e30e-412d-9950-e7bdd512b65f.png)
