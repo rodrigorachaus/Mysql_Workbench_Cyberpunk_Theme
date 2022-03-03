@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <languages>
   <!--
-    Settings for scintilla-based code editors in MySQL Workbench.
+    Settings for cyberpunk code editors in MySQL Workbench create for ThorDevOps.
     
-    For a list of possible style identifiers see the SciLexer.h file.
-    Keyword list identifiers are taken from the various Lex*.cpp files in Scintilla.
+    This style based on Neon and Bold font color
+    Adequation for Dark_theme to Workbench like for me
   -->
 
   <language name="SCLEX_MYSQL">
@@ -47,21 +47,7 @@
     </keywords>
     
     <!-- 
-dark-gray:         #282828;
-brown-gray:        #49483E;
-gray:              #888888;
-light-gray:        #CCCCCC;
-ghost-white:       #F8F8F0;
-light-ghost-white: #F8F8F2;
-yellow:            #E6DB74;
-blue:              #66D9EF;
-pink:              #F92672;
-purple:            #AE81FF;
-brown:             #75715E;
-orange:            #FD971F;
-light-orange:      #FFD569;
-green:             #A6E22E;
-sea-green:         #529B2F; 
+For customize color font change hex code for fore-color-light and fore-color-dark
 -->
 
 <style id="32" fore-color-light="#DDDDDD" back-color-light="#282828" fore-color-dark="#DDDDDD" back-color-dark="#282828" bold="No" />   <!-- STYLE_DEFAULT       !BACKGROUND!   -->
